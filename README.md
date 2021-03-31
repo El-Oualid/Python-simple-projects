@@ -24,7 +24,7 @@ This two project are made using [Tkinter](https://docs.python.org/3/library/tkin
 seeing the output of your code can give you a lot of motivation especially after learning a lot of Python theory. I think every python student should work with this framework. 
 
 
-### Turtle
+### Tic Tac Toe Turtle
 
 [turtle](https://docs.python.org/3/library/turtle.html) is a pre-installed Python library. it's a good way for introducing programming to kids. 
 
