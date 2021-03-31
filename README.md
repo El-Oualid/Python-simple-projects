@@ -31,7 +31,7 @@ seeing the output of your code can give you a lot of motivation especially after
 
 ### Alarm Clock
 
-you will need to install [playsound](https://pypi.org/project/playsound/) module and import a module named datetime to work with dates as date objects.
+you will need to install [playsound](https://pypi.org/project/playsound/) module and import a module named **datetime** to work with dates as date objects.
 
 
 
